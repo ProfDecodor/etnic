@@ -19,7 +19,7 @@
     {
       "id": 5,
       "nom": "Bravoure"
-    },
+    }
   ],
   "equipements": [
     {
@@ -41,7 +41,7 @@
     {
       "id": 5,
       "nom": "Epée rouillée"
-    },
+    }
   ]
 }
 
