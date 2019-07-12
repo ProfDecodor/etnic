@@ -1,0 +1,47 @@
+{
+  "competences": [
+    {
+      "id": 1,
+      "nom": "Vol"
+    },
+    {
+      "id": 2,
+      "nom": "Force"
+    },
+    {
+      "id": 3,
+      "nom": "Magie noire"
+    },
+    {
+      "id": 4,
+      "nom": "Magie blanche"
+    },
+    {
+      "id": 5,
+      "nom": "Bravoure"
+    },
+  ],
+  "equipements": [
+    {
+      "id": 1,
+      "nom": "Lance écarlate"
+    },
+    {
+      "id": 2,
+      "nom": "Lance de la mort"
+    },
+    {
+      "id": 3,
+      "nom": "Epée cassée"
+    },
+    {
+      "id": 4,
+      "nom": "Bâton"
+    },
+    {
+      "id": 5,
+      "nom": "Epée rouillée"
+    },
+  ]
+}
+
