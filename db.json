@@ -1,7 +1,6 @@
 {
   "competences": [
-    {
-      "id": 1,
+    { "id": 1,
       "nom": "Vol"
     },
     {
@@ -24,7 +23,7 @@
   "equipements": [
     {
       "id": 1,
-      "nom": "Lance écarlate"
+      "nom": "Lance ecarlate"
     },
     {
       "id": 2,
@@ -32,15 +31,15 @@
     },
     {
       "id": 3,
-      "nom": "Epée cassée"
+      "nom": "Epee cassee"
     },
     {
       "id": 4,
-      "nom": "Bâton"
+      "nom": "Baton"
     },
     {
       "id": 5,
-      "nom": "Epée rouillée"
+      "nom": "Epee rouillee"
     }
   ]
 }
